@@ -70,37 +70,10 @@ gantt
 
 ## Contato
 
-- E-mail: hello@hypersphere.dev
+- E-mail: hyperspherestudios1@gmail.com
 - Site: hypersphere.dev (em construção)
 - Localização: Brasil (remoto)
 
----
 
-<details>
-<summary>Para mantenedores — ativar badges e extras avançados</summary>
-
-Este README está pronto para o perfil da organização. Para publicá-lo:
-
-1) Crie um repositório público chamado `.github` na organização
-2) Dentro dele, crie `profile/README.md` (este arquivo)
-
-Badges dinâmicos (opcionais):
-
-- CI status: substitua `owner/repo` abaixo pelo seu repositório
-
-```
-[![CI](https://github.com/owner/repo/actions/workflows/ci.yml/badge.svg)](https://github.com/owner/repo/actions/workflows/ci.yml)
-```
-
-- Qualidade de código (ESLint/Tests): adicione workflows em `.github/workflows/*.yml` e badges equivalentes
-- Versão/Release: use GitHub Releases e um badge tipo `shields.io/github/v/release/owner/repo`
-
-Outros recursos recomendados:
-
-- `.github/CODEOWNERS` — donos de código por pasta
-- `SECURITY.md` — política de segurança e reporte de vulnerabilidades
-- `CONTRIBUTING.md` — guia de contribuição (PRs, padrão de commits, convenções)
-- `FUNDING.yml` — opções de apoio/financiamento (quando aplicável)
-- `ISSUE_TEMPLATE/` e `PULL_REQUEST_TEMPLATE.md` — fluxos consistentes
 
 </details>
